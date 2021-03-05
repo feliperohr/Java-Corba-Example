@@ -1,0 +1,5 @@
+// init the interface .idl, which return a package with java files.
+idlj -fall module_name.idl
+
+// config tu run server in obviously server side ORB.
+start orbd -ORBInitialPort 4444

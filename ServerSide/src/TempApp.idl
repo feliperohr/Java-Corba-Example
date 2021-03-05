@@ -1,0 +1,6 @@
+module TempApp {
+    interface TempChecker{
+        string getCountries();
+        string convertCelsiusToF(in string symbol);
+    };
+};
