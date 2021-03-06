@@ -7,7 +7,7 @@ Follow the default java doc about CORBA implementation on:
        
 -----------------------------------------------------------------------------------------------
 
-Simplifing, just create 2 separeted projects to respective types Server and Client and 
+Just need to create 2 separeted projects, to a respective types Server and Client and 
 them just config the running arguments or just copy my conf-scrips.txt example:
     
     -ORBInitialPort your_system_port -ORBInitialHost your_system_url
